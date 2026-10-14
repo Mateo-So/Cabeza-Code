@@ -1,0 +1,28 @@
+TERMS OF SERVICE FROM CABEZA CODE
+Oficial Product Name: Cabeza Code
+Version: 1.0.0
+Effective Date: October 14, 2026
+
+Important: By downloading, installing, or using this software, you agree to be bound by these Terms of Service. If you do not agree to these terms, do not download, install, or use this software.
+
+CRITICAL NOTE: NOTICE: CABEZA CODE IS NOT AN EDUCATIONAL PROGRAMMING LANGUAGE, NOR IS IT A TEACHING TOOL OR EDUCATIONAL MATERIAL!
+
+PROPERTY:
+
+Cabeza Code is a programming language of closed source. It is strictly prohibited to reverse, engineer, decompile, or probe the programming language.
+
+LIMITATION OF LIABILITY:
+
+This software is not responsible for any damage caused by the software, whether accidental or intentional.
+
+GOVERNING LAW AND CONTACT:
+
+These Terms of Service shall be governed by and construed in accordance with the laws of Guanajuato, México, without regard to its conflict of law provisions. Any legal action or dispute arising from the use of this software shall be resolved exclusively in the competent courts of Guanajuato, México.
+For any questions, notices, or reports regarding these terms, please contact the creator through the official GitHub Repository Issues section.
+
+Thanks:
+
+Thank you for using Cabeza Code (CCode). We appreciate your respect for our intellectual property and your commitment to responsible programming.
+
+All rights reserved.
+
